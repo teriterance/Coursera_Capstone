@@ -1,0 +1,8 @@
+host_response_rate,host_listings_count,latitude,longitude,city,zipcode,state,accommodates,room_type,bedrooms,security_deposit,minimum_nights,maximum_nights,number_of_reviews,count,quartier
+1.0,1.0,48.86939,2.37471,Paris,75011,Île-de-France,4,Entire home/apt,2.0,200.0,3,14,41,1.0,Paris
+1.0,1.0,48.87254,2.38944,Paris,75020,Île-de-France,4,Entire home/apt,2.0,0.0,3,365,15,1.0,Le Pre-Saint-Gervais
+1.0,1.0,48.83401,2.37115,Paris,75013,Île-de-France,3,Entire home/apt,1.0,0.0,2,1125,18,1.0,Le Kremlin-Bicetre
+1.0,1.0,48.86705,2.34558,Paris,75002,Île-de-France,4,Entire home/apt,2.0,150.0,3,1125,8,1.0,Paris
+1.0,1.0,48.88185,2.36795,Paris,75010,Île-de-France,4,Entire home/apt,1.0,100.0,1,7,4,1.0,Paris
+1.0,1.0,48.87043,2.3588,Paris,75010,Île-de-France,4,Entire home/apt,1.0,0.0,8,1125,0,1.0,Paris
+1.0,1.0,48.87822,2.3576900000000003,Paris,75010,Île-de-France,2,Entire home/apt,1.0,200.0,4,60,45,2.0,Paris
